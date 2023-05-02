@@ -1,0 +1,12 @@
+{
+  "Id": "Rebalanced Direct Investment",
+  "DisplayName": "Rebalanced Direct Investment",
+  "title": "Rebalanced Direct Investment",
+  "Author": "Aretaxios",
+  "description": " Rebalanced Direct Investment is a Terra Invicta mod which rebalances Direct Investment costs to better reflect the value of those investments ",
+  "Version": "0.1.0",
+  "ManagerVersion": "0.25.0",
+  "GameVersion": "0.3.76",
+  "AssemblyName": "Rebalanced Direct Investment.dll",
+  "EntryMethod": "Rebalanced_Direct_Investment.Main.Load"
+}
