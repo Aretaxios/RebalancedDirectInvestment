@@ -10,6 +10,6 @@ After writing a post on my problems with Direct Investment costs in the balance 
 These effects make Direct Investment a viable use of resources rather than just a late-game money sink. The cost of investing in scaling priorities now scales with the size of the country so that the cost of investment scales with the results, while investing in non-scaling priorities is roughly the same for all countries. Influence costs for DI are generally higher, and combined with the lower money costs give you something on which to spend your late-game influence income.
 
 INSTALLATION
-Version 0.1.0 of this mod is built for Terra Invicta version 0.3.76. I cannot guarantee compatibility with other versions of the game.
+Version 0.1.0 of this mod is built for Terra Invicta version 0.3.77. I cannot guarantee compatibility with other versions of the game.
 
 Because this is a code mod, you MUST use a mod manager like Unity Mod Manager or Monomod for this mod to work. To install, unzip the contents of this mod to Steam\steamapps\common\Terra Invicta\Mods\Enabled. 
